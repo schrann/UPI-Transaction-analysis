@@ -15,7 +15,7 @@ A real-time Power BI dashboard to monitor and analyze UPI transactions across ci
 
 ## 🛠️ Tools Used
 - **Power BI:** Data visualization and dashboard creation
-- **Excel:** Data preprocessing and cleaning
+- **Power Query (M-Language) :** Data preprocessing and cleaning
 - **DAX:** Measures and calculated columns for advanced analysis
 
 ---
@@ -28,22 +28,10 @@ A real-time Power BI dashboard to monitor and analyze UPI transactions across ci
 
 ---
 
-## 📂 Project Structure
-- `Dataset/` — Raw and cleaned transaction data files
-- `Dashboard/` — Power BI `.pbix` file (dashboard file)
-- `Insights/` — Key takeaways and screenshots from the dashboard
-
----
-
 ## 🚀 How to Run
 1. Clone this repository.
 2. Open the `.pbix` file using **Power BI Desktop**.
 3. Explore the dashboard and interact with filters/slicers for custom analysis.
-
----
-
-## 🔗 Project Link
-**[View Project Repository](#)**
 
 ---
 
